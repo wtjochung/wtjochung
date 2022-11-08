@@ -6,7 +6,6 @@ Frontend Developer and Game Designer
 
 I started with Java and HTML, moving on to C++ and C. I am currently working on web applications and side projects at makerspaces!
 
-*   🌍  I'm based in Boston, MA
 *   🖥️  See my portfolio [here](http://w-chung.com)
 *   ✉️  You can contact me at [wingting.jo.chung@gmail.com](mailto:wingting.jo.chung@gmail.com)
 *   🚀  I'm currently working on [The Legacy Project](http://www.legacyproject.org/) with [Tufts JumboCode](https://jumbocode.org/)
