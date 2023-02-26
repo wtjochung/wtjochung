@@ -8,7 +8,7 @@ I started with Java and HTML, moving on to C++ and C. I am currently working on 
 
 *   🖥️  See my portfolio [here](http://w-chung.com)
 *   ✉️  You can contact me at [wingting.jo.chung@gmail.com](mailto:wingting.jo.chung@gmail.com)
-*   🚀  I'm currently working on [The Legacy Project](http://www.legacyproject.org/) with [Tufts JumboCode](https://jumbocode.org/)
+*   🚀  I'm currently working on a web app for [The Legacy Project](http://www.legacyproject.org/) with [Tufts JumboCode](https://jumbocode.org/)
 *   🧠  I'm learning React.js
 *   ⚡  You can probably find me at local makerspaces!
 
