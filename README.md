@@ -1,7 +1,7 @@
 Hi 👋 My name is Wing Ting Chung
 ================================
 
-Frontend Developer and Game Designer
+Full Stack Developer and Game Designer
 --------------------
 
 I started with Java and HTML, moving on to C++ and C. I am currently working on web applications and side projects at makerspaces!
