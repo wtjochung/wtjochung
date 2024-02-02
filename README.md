@@ -4,7 +4,7 @@ Hi 👋 My name is Wing Ting Chung
 Full Stack Developer and Game Designer
 --------------------
 
-I started with Java and HTML, moving on to C++ and C. I am currently working on web applications and side projects at makerspaces!
+I started with Java and HTML, moving on to C++/C and Python. I am currently working on web applications and side projects at makerspaces!
 
 *   🖥️  See my portfolio [here](https://wchungcom.wordpress.com/software-portfolio/)
 *   ✉️  You can contact me at [wingting.jo.chung@gmail.com](mailto:wingting.jo.chung@gmail.com)
