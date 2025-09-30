@@ -1,14 +1,14 @@
-Hi 👋 My name is Wing Ting Chung
+Hi 👋 My name is Jo Chung
 ================================
 
-Full Stack Developer and Game Designer
+Full Stack Developer, ML Engineer, and Game Designer
 --------------------
 
-I started with Java and HTML, moving on to C++/C and Python. I am currently working on web applications and side projects at makerspaces!
+I started with Java and HTML, moving on to C++/C and Python. I am currently working on robotics and side projects at makerspaces!
 
 *   🖥️  See my portfolio [here](https://wchungcom.wordpress.com/software-portfolio/)
 *   ✉️  You can contact me at [wingting.jo.chung@gmail.com](mailto:wingting.jo.chung@gmail.com)
-*   🚀  I'm currently working on my capstone project, Tufts Research for Future Firefighters with Panetta Lab
+*   🚀  I'm currently working on open source projects
 *   🧠  I'm learning Python
 *   ⚡  You can probably find me at local makerspaces!
 
